@@ -1,5 +1,5 @@
 # BP-Neural-Netwrok
-use python to implement classical bp neural network for binary classification problem
+use python and numpy to implement classical bp neural network for binary classification problem
 
 I create a class named NeuralNetworkClassifier, which enables inputing samples with any dimension, and you can change the number of neurons in the hidden layer and the learning rate when create the instance.
 
